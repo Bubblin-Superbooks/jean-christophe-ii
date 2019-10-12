@@ -1,29 +1,5 @@
 [
   {
-    "tag": "p",
-    "innerHtml": "JEAN-CHRISTOPHE II"
-  },
-  {
-    "tag": "p",
-    "innerHtml": "Aamu"
-  },
-  {
-    "tag": "p",
-    "innerHtml": "Kirj."
-  },
-  {
-    "tag": "h5",
-    "innerHtml": "Romain Rolland"
-  },
-  {
-    "tag": "p",
-    "innerHtml": "Porvoossa, Werner Söderström Osakeyhtiö, 1919."
-  },
-  {
-    "tag": "hr",
-    "innerHtml": ""
-  },
-  {
     "tag": "h4",
     "innerHtml": "I."
   },
@@ -733,7 +709,7 @@
   },
   {
     "tag": "p",
-    "innerHtml": "Nyt, kun he istuivat mahtavan aterian ääressä, tulivat he aivan noloiksi. He eivät keksineet enää toisilleen mitään sanomista; he söivät avuttomasti, ja heidän liikkeensä olivat jäykät ja kulmikkaat. He huomasivat yhtäkkiä, että he olivat toisilleen vieraita, ja olivat molemmat varuillaan. He koettivat turhaan saada pakinaa vilkkaammaksi: se lamautui kohta jälleen. Ensimäinen puolituntia oli hirvittävän ikävä. Onneksi teki juhla-ateria pian vaikutuksensa, ja kestailijat katselivat jo toisiinsa luottavammin. Varsinkin Christophe, joka ei ollut tottunut sellaiseen hummaukseen, tuli merkillisen puheliaaksi. Hän kertoi kaikki elämänsä vaikeudet; ja Otto taas tunnusti avomielisesti, ettei hänkään ollut onnellinen. Hän oli heikko ja arka, hänen toverinsa käyttivät hänen ominaisuuksiaan väärin. He pilkkasivat häntä, he eivät antaneet hänelle anteeksi, ettei hän hyväksynyt heidän epähienoja tapojaan, he tekivät hänelle monenmoista ilkeyttä. — Christophe heristi nyrkkiään ja sanoi, että koettakootpas tehdä hänen ollessaan saapuvilla. — Myöskään Ottoa eivät hänen omaisensa ymmärtäneet. Christophe tiesi, mikä onnettomuus se oli; ja he heltyivät yhteisistä kovista kohtaloistaan. Dienerin vanhemmat tahtoivat hänestä kauppamiestä, isänsä seuraajaa liikkeessä. Mutta hän itse tahtoi olla runoilija. Ja hänestä tulisi runoilija, vaikka hänen sitten täytyisi paeta synnyinkaupungistaan, kuten Schiller, ja kärsiä kurjuutta. (Muuten: koko isän omaisuus joutuisi hänelle, ja se oli melkoinen. Otto tunnusti punastuen, että hän oli jo kirjoittanut runoja elämän surullisuudesta; mutta hän ei tahtonut niitä mitenkään lukea Christophelle, vaikka toinen pyyteli hartaasti. Viimein lausui hän niistä pari kolme, pahoin sotkien, niin heltynyt hän oli. Christophesta ne olivat suurenmoisia. He löivät suunnitelmansa yhteen: he aikoivat työskennellä yhdessä; he kirjoittaisivat draamoja, tuollaisia _Liederkreise_-nimisiä sommitelmia. He ihailivat toinen toisiaan. Oton kunnioitusta herätti, paitsi Christophen taiteilijamaine, hänen voimansa ja rohkea puhetapansa. Ja Christopheen vaikutti Oton aistikas ulkoasu, hänen hienot tapansa ja, — kaikkihan tässä maailmassa on relatiivista, — hänen suuri tietomääränsä, jota hänellä itsellään ei ollut laisinkaan ja jota hän janosi.)"
+    "innerHtml": "Nyt, kun he istuivat mahtavan aterian ääressä, tulivat he aivan noloiksi. He eivät keksineet enää toisilleen mitään sanomista; he söivät avuttomasti, ja heidän liikkeensä olivat jäykät ja kulmikkaat. He huomasivat yhtäkkiä, että he olivat toisilleen vieraita, ja olivat molemmat varuillaan. He koettivat turhaan saada pakinaa vilkkaammaksi: se lamautui kohta jälleen. Ensimäinen puolituntia oli hirvittävän ikävä. Onneksi teki juhla-ateria pian vaikutuksensa, ja kestailijat katselivat jo toisiinsa luottavammin. Varsinkin Christophe, joka ei ollut tottunut sellaiseen hummaukseen, tuli merkillisen puheliaaksi. Hän kertoi kaikki elämänsä vaikeudet; ja Otto taas tunnusti avomielisesti, ettei hänkään ollut onnellinen. Hän oli heikko ja arka, hänen toverinsa käyttivät hänen ominaisuuksiaan väärin. He pilkkasivat häntä, he eivät antaneet hänelle anteeksi, ettei hän hyväksynyt heidän epähienoja tapojaan, he tekivät hänelle monenmoista ilkeyttä. — Christophe heristi nyrkkiään ja sanoi, että koettakootpas tehdä hänen ollessaan saapuvilla. — Myöskään Ottoa eivät hänen omaisensa ymmärtäneet. Christophe tiesi, mikä onnettomuus se oli; ja he heltyivät yhteisistä kovista kohtaloistaan. Dienerin vanhemmat tahtoivat hänestä kauppamiestä, isänsä seuraajaa liikkeessä. Mutta hän itse tahtoi olla runoilija. Ja hänestä tulisi runoilija, vaikka hänen sitten täytyisi paeta synnyinkaupungistaan, kuten Schiller, ja kärsiä kurjuutta. (Muuten: koko isän omaisuus joutuisi hänelle, ja se oli melkoinen. Otto tunnusti punastuen, että hän oli jo kirjoittanut runoja elämän surullisuudesta; mutta hän ei tahtonut niitä mitenkään lukea Christophelle, vaikka toinen pyyteli hartaasti. Viimein lausui hän niistä pari kolme, pahoin sotkien, niin heltynyt hän oli. Christophesta ne olivat suurenmoisia. He löivät suunnitelmansa yhteen: he aikoivat työskennellä yhdessä; he kirjoittaisivat draamoja, tuollaisia _Liederkreise_-nimisiä sommitelmia. He ihailivat toinen toisiaan. Oton kunnioitusta herätti, paitsi Christophen taiteilijamaine, hänen voimansa ja rohkea puhetapansa. Ja Christopheen vaikutti Oton aistikas ulkoasu, hänen hienot tapansa ja, — kaikkihan tässä maailmassa on relatiivista, — hänen suuri tietomääränsä, jota hänellä itsellään ei ollut laisinkaan ja jota hän janosi. )"
   },
   {
     "tag": "p",
@@ -873,7 +849,7 @@
   },
   {
     "tag": "p",
-    "innerHtml": "--- Minua kiduttaa, rakkaani, tuska, jota sinulle tuotan, kirjoitti Christophe. Minä en voi kestää sitä, että sinä kärsit: <em>se ei saa tapahtua, minä en sitä tahdo!</em> (Hän veti näiden sanain alle niin lujan viivan, että paperi puhkesi. Jos sinä kärsit, mistä saan voimaa jaksaakseni elää: minä en löydä onnea muualta kuin sinussa. Oh, ole vaan onnellinen! Kaiken pahan otan minä ilomielin osalleni! Ajattele minua! Rakasta minua! Minä tunnen ääretöntä halua saada rakkautta. Sinun rakkaudestasi henkii minuun lämmin, joka tekee minut eläväksi. Jos tietäisit, kuinka minä värisen vilusta! Minun sydämessäni asuu talvi ja viiltävä viima. Minä syleilen sinun sieluasi.)"
+    "innerHtml": "--- Minua kiduttaa, rakkaani, tuska, jota sinulle tuotan, kirjoitti Christophe. Minä en voi kestää sitä, että sinä kärsit: <em>se ei saa tapahtua, minä en sitä tahdo!</em> (Hän veti näiden sanain alle niin lujan viivan, että paperi puhkesi. Jos sinä kärsit, mistä saan voimaa jaksaakseni elää: minä en löydä onnea muualta kuin sinussa. Oh, ole vaan onnellinen! Kaiken pahan otan minä ilomielin osalleni! Ajattele minua! Rakasta minua! Minä tunnen ääretöntä halua saada rakkautta. Sinun rakkaudestasi henkii minuun lämmin, joka tekee minut eläväksi. Jos tietäisit, kuinka minä värisen vilusta! Minun sydämessäni asuu talvi ja viiltävä viima. Minä syleilen sinun sieluasi. )"
   },
   {
     "tag": "p",
@@ -1389,7 +1365,7 @@
   },
   {
     "tag": "p",
-    "innerHtml": "Kun hän istui pöydän ääressä, rauhallisessa, pienessä salissa, jonkun askeleen päässä rouva von Kerichistä, joka ompeli lampun valossa… — (Minna luki ääneen toisella puolen pöytää; he eivät puhelleet; puoliavoimesta puutarhaovesta näkyi hiekkakäytävä kuutamossa kiiltäen; puitten latvat suhisivat ulkona hiljaa… — silloin tunsi hän yhtäkkiä sellaisen onnen paisuttavan sydäntään, että hän ryntäsi ilman näkyvää syytä ylös tuoliltaan, heittäytyi rouva von Kerichin jalkain juureen, tarttui hänen käteensä, jossa saattoi olla neulakin, ja suuteli sitä suutelemistaan ja painoi sen nyyhkytellen huulilleen, poskiaan tai silmiään vasten. Minna kohotti katseensa kirjasta, nykähytti välinpitämättömästi olkapäitään ja nyrpisti hiukan suutaan. Rouva von Kerich katseli hymyillen isoa poikaa, joka pyöriskeli hänen jaloissaan, taputteli hänen päätänsä vapaana olevalla kädellään ja virkkoi kauniilla äänellään, ystävällisesti ja hiukan ivaavasti:)"
+    "innerHtml": "Kun hän istui pöydän ääressä, rauhallisessa, pienessä salissa, jonkun askeleen päässä rouva von Kerichistä, joka ompeli lampun valossa… — (Minna luki ääneen toisella puolen pöytää; he eivät puhelleet; puoliavoimesta puutarhaovesta näkyi hiekkakäytävä kuutamossa kiiltäen; puitten latvat suhisivat ulkona hiljaa… — silloin tunsi hän yhtäkkiä sellaisen onnen paisuttavan sydäntään, että hän ryntäsi ilman näkyvää syytä ylös tuoliltaan, heittäytyi rouva von Kerichin jalkain juureen, tarttui hänen käteensä, jossa saattoi olla neulakin, ja suuteli sitä suutelemistaan ja painoi sen nyyhkytellen huulilleen, poskiaan tai silmiään vasten. Minna kohotti katseensa kirjasta, nykähytti välinpitämättömästi olkapäitään ja nyrpisti hiukan suutaan. Rouva von Kerich katseli hymyillen isoa poikaa, joka pyöriskeli hänen jaloissaan, taputteli hänen päätänsä vapaana olevalla kädellään ja virkkoi kauniilla äänellään, ystävällisesti ja hiukan ivaavasti: )"
   },
   {
     "tag": "p",
@@ -2022,5 +1998,9 @@
   {
     "tag": "p",
     "innerHtml": "--- Käykää kuolemaan, te, joiden täytyy kuolla! Käykää kärsimään, te, joiden täytyy kärsiä. Ei eletä sen tähden, että oltaisiin onnellisia. Eletään siksi, että täyttyisi Lakini. Kärsi. Kuole. Mutta ole, mitä sinun pitää olla: — Mies."
+  },
+  {
+    "tag": "hr",
+    "innerHtml": ""
   }
 ]
